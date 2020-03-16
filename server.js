@@ -16,4 +16,4 @@ setInterval(() => {
   http.get(`http://ÇÓã ÇáÈÑæßÓ.glitch.me`); //replace jagroshmusicbot with your project name ÈÏá jagroshmusicbot Èí ÇÓã ÇáÈÑæÌßÊ ÍÞß
 }, 280000); 
 var shell = require('shelljs'); 
-shell.exec('java -jar Toxic.jar')
+shell.exec('java -jar JMusicBot-0.2.7-Windows.jar')
